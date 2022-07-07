@@ -5,6 +5,8 @@
     "license_url": "https://opensource.org/licenses/MIT",
     "origin": "AMZN-alexpete",
     "origin_url": "https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
+    "origin_uri":"https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo/archive/main.zip",
+    "repo_uri":"https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main",
     "type": "Asset",
     "summary": "Demo Remote Asset Gem",
     "canonical_tags": [
