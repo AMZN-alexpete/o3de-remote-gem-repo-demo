@@ -29,12 +29,12 @@ This repository contains:
     {
         "repo_name":"RemoteGemDemo",
         "origin":"AMZN-alexpete",
-        "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
+        "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main",
         "summary": "A Gem Repository with a single Gem in the root of the repository.",
         "additional_info": "See the README.md at the root of this repository for more information",
         "last_updated": "2022-07-06",
         "gems": [
-            "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo"
+            "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main"
         ]
     }
     ```
@@ -42,8 +42,8 @@ This repository contains:
 ### Option #1 - Use GitHub Archive to generate the gem package
 1. Edit your `gem.json` file and add/update the `repo_uri` and `origin_uri` fields
     ```
-    "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
-    "origin_uri": "https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
+    "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main",
+    "origin_uri": "https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo/archive/main.zip",
     ```
 1. Save and close the file
 1. Commit and push the updated `gem.json` file
@@ -59,8 +59,8 @@ This repository contains:
 1. Upload your gem .zip as a file in the release and copy the download URL for the file
 1. Edit your `gem.json` file and add/update the `repo_uri` and `origin_uri` fields
     ```
-    "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
-    "origin_uri": "https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
+    "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main",
+    "origin_uri": "https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo/releases/download/1.0.0/o3de-remote-gem-repo-demo-main.zip",
     ```
 1. Save and close the file
 1. Commit and push the updated `gem.json` file

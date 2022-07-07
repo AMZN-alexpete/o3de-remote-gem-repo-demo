@@ -1,10 +1,10 @@
 {
     "repo_name":"RemoteGemDemo",
-    "origin":"Origin for the ${Name} Gem Repository",
-    "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
+    "origin":"AMZN-alexpete",
+    "repo_uri": "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main",
     "summary": "A Gem Repository with a single Gem in the root of the repository.",
     "additional_info": "See the README.md at the root of this repository for more information",
-    "last_updated": "",
+    "last_updated": "2022-07-06",
     "gems": [
         "https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main"
     ]
