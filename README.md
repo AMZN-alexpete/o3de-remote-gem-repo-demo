@@ -6,6 +6,12 @@ This repository contains:
 3. A GitHub release with the .zip containing the gem and associated gem.json
 
 
+## To add this remote repository in Project Manager use the URL
+
+```
+https://raw.githubusercontent.com/AMZN-alexpete/o3de-remote-gem-repo-demo/main
+```
+
 ## How this demo was made
 
 1. Create a public GitHub repository for the gem
