@@ -1,0 +1,21 @@
+{
+    "gem_name": "RemoteGemDemo",
+    "display_name": "RemoteGemDemo",
+    "license": "MIT",
+    "license_url": "https://opensource.org/licenses/MIT",
+    "origin": "AMZN-alexpete",
+    "origin_url": "https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
+    "type": "Asset",
+    "summary": "Demo Remote Asset Gem",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "RemoteGemDemo"
+    ],
+    "icon_path": "preview.png",
+    "requirements": "",
+    "documentation_url": "https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
+    "dependencies": [],
+    "restricted": "RemoteGemDemo"
+}
